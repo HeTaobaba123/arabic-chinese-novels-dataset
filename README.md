@@ -1,5 +1,14 @@
 # Arabic-Chinese Web Novel Parallel Corpus (MENA Literature Dataset)
 
+## 📥 Download
+
+**Latest release**: [v1.0.0](https://github.com/HeTaobaba123/arabic-chinese-novels-dataset/releases/tag/v1.0.0)
+
+- [novels-metadata.ar-zh.json.gz](https://github.com/HeTaobaba123/arabic-chinese-novels-dataset/releases/download/v1.0.0/novels-metadata.ar-zh.json.gz) (~1.5 MB, **recommended**)
+- [novels-metadata.ar-zh.json](https://github.com/HeTaobaba123/arabic-chinese-novels-dataset/releases/download/v1.0.0/novels-metadata.ar-zh.json) (10 MB, pretty-printed)
+
+
+
 The **largest open-source Arabic-Chinese parallel corpus** for web novels, sourced from PanguDawn — the first Arabic-language platform for Chinese web novels. Covers **7,476+ Chinese web novels** with complete metadata in **3 languages** (Chinese, English, Arabic), and a growing subset of chapters with full parallel text.
 
 ## Files
